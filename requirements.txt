@@ -32,6 +32,6 @@ six==1.15.0
 soupsieve==2.0.1
 Twisted==20.3.0
 typing==3.7.4.3
-urllib3==1.25.10
+urllib3==1.26.19
 w3lib==1.22.0
 zope.interface==5.1.0
